@@ -1,0 +1,293 @@
+{
+    "store.custom#faq": {
+        "blocks": [
+            "flex-layout.row#faq"
+        ]
+    },
+    "flex-layout.row#faq": {
+        "children": [
+            "flex-layout.col#text-faq"
+        ],
+        "props": {
+            "blockClass": [
+                "page-institucionales",
+                "faq"
+            ]
+        }
+    },
+    "flex-layout.col#text-faq": {
+        "children": [
+            "rich-text#title-faq",
+            "rich-text#faq-section-01",
+            "rich-text#faq-section-02",
+            "rich-text#faq-section-03",
+            "rich-text#faq-section-04",
+            "rich-text#faq-section-05",
+            "rich-text#faq-section-06",
+            "rich-text#faq-section-07",
+            "rich-text#faq-section-08",
+            "rich-text#faq-section-09",
+            "rich-text#faq-section-010",
+            "rich-text#faq-section-011",
+            "rich-text#faq-section-012",
+            "rich-text#faq-section-013",
+            "rich-text#faq-section-014",
+            "rich-text#faq-section-015",
+            "rich-text#faq-section-016",
+            "rich-text#faq-section-017",
+            "rich-text#faq-section-018",
+            "rich-text#faq-section-019",
+            "rich-text#faq-section-020",
+            "rich-text#faq-section-021",
+            "rich-text#faq-section-022",
+            "rich-text#faq-section-023",
+            "rich-text#faq-section-024",
+            "rich-text#faq-section-025",
+            "rich-text#faq-section-026",
+            "rich-text#whatsapp-img-faq",
+            "image#whatsapp-faq"
+        ],
+        "props": {
+            "blockclass": [
+                "page-institucionales",
+                "faq"
+            ],
+            "preventVerticalStretch": true
+        }
+    },
+    "rich-text#title-faq": {
+        "props": {
+            "text": "# FAQs",
+            "blockClass": ""
+        }
+    },
+    "rich-text#faq-section-01": {
+        "props": {
+            "text": "##### ¿Cómo comprar?\nR: Comprar es muy fácil. Estos son los pasos que tienes que seguir:\n1. Busca lo que quieras, puedes usar nuestras categorías o el buscador\n\n2. Agrega a tu carrito los productos que quieras dando click al botón “A mi bolsa”\n3. Una vez que hayas escogido todo lo que te gusta, ve a tu carrito y da click en “Comprar”\n4. Revisa que los productos que agregaste están correctos y da click en “Finalizar Compra”\n5. Si eres nuevo, llena la información de contacto y tu información de entrega\n6. Selecciona el método de pago que más te convenga\n7. Llena la información de tu método de pago y da click en “Comprar ahora”\n8. ¡Listo! Podrás ver la información de tu pedido en la sección de “Mis Pedidos”",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-02": {
+        "props": {
+            "text": "##### ¿Cómo elijo productos para mi carrito de compra?\nR:  Da clic sobre el producto que te interesa y en el detalle del producto da clic en el botón “A mi bolsa”.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-03": {
+        "props": {
+            "text": "##### ¿Los pagos son Seguros?\nR: Hemos Invertido en los sistemas de protección más avanzados para tu compra, es por ello que mantenemos las transacciones altamente protegidas de principio a fin. Utilizamos la plataforma de Mercado Pago, encriptamos los datos en forma segura (TLS) y así cumplimos con los más altos estándares de seguridad online.\nPCI-DSS monitorea y certifica lo que hacemos.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-04": {
+        "props": {
+            "text": "##### ¿Cuáles son los Métodos de Pago?\nR: Te contamos que nuestra plataforma de pagos es Mercado Pago por la cual puedes hacer tus comprar con: \n *  Tarjetas de crédito (Visa, American Express, Master Card, Diners Club y Codensa). \n *   Tarjetas débito por PSE. \n *  En efectivo a través de Efecty, Baloto, 4-72 y Soluciones en Red.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-05": {
+        "props": {
+            "text": "##### ¿Cómo funciona el pago en Efectivo?\nR: Si compras desde Efecty, Baloto, 4-72 o Soluciones en red: \n 1. Tienes 24 horas para realizar tu pago. \n 2. Una vez realices el pago, éste se acreditará inmediatamente.\n 3. El pedido se envía cuando se acredita el pago. \n 4. Si no pagas antes de 24 horas se cancela.  ",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-06": {
+        "props": {
+            "text": "##### ¿Hay pago contra entrega? \nR: Por el momento no existe esta modalidad, sin embargo, puedes hacer tus compras con los medios de pago en efectivo disponibles en nuestra página web: • Efecty, Baloto, 4-72 y Soluciones en Red.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-07": {
+        "props": {
+            "text": "##### ¿No me llega el código para entrar a mi cuenta? \nR: Te invitamos a verificar tu bandeja de spam (correo no deseado). Si tienes más dudas comunícate a travpes de nuestros canales de contacto.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-08": {
+        "props": {
+            "text": "##### ¿Cuánto tiempo tarda en llegar mi pedido/ Cuánto tardan en procesar las órdenes?\nR: Te contamos que los tiempos regulares estimados de entrega son:\n* Local 3 días hábiles.\n*  Nacional y regional de 3 a 6 días hábiles.\n* Reexpedido hasta 15 días hábiles.\nSin embargo, debido a la emergencia sanitaria estos tiempos pueden variar y extenderse. ",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-09": {
+        "props": {
+            "text": "##### ¿Cómo sé si se aprobó mi pago? \nR: Recibirás confirmación en tu correo electrónico registrado, o también puedes verificar en nuestra página web en la sección de “Pedidos” de “Mi cuenta”.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-010": {
+        "props": {
+            "text": "##### Rechazaron mi tarjeta al realizar la compra, ¿Qué hago? \nR: En algunas ocasiones MercadoPago rechaza la transacción por motivos de seguridad, te sugerimos utilizar otra tarjeta o comunicarte con tu banco para que te ayude a verificar si ésta tiene restricciones o está bloqueada, cuidamos al máximo tu seguridad.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-011": {
+        "props": {
+            "text": "##### ¿Cuál es el costo de envío?\nR: El costo se calcula cuando realizas tu compra y éste varía depende del destino: \n* Local (Bogotá y sus alrededores): $6.000 aproximadamente. \n* Nacional - Regional: $8.000 aproximadamente. \n* Reexpedido: $45.000 aproximadamente. ",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-012": {
+        "props": {
+            "text": "##### ¿Cómo se dónde está mi envío? \nR: Te invitamos a ingresar a nuestro sitio web en la sección pedidos, allí puedes conocer el número de guía y con este puedes rastrear tu pedido en la página web de EXXE: www.exxe.com.co \n Si tienes dudas comunicatea través de nuestros canales de atención.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-013": {
+        "props": {
+            "text": "##### No he recibido mi número de guía, ¿Qué hago? \nR:  Por favor escríbenos a: servicioalclientecolombia@miniso.co o por nuestro chat en web con la siguiente información: \n * Nombre registrado en la plataforma. \n * Número de pedido. ",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-014": {
+        "props": {
+            "text": "##### ¿Hacen envíos a otro país? \nR: Por el momento no contamos con envíos fuera del territorio colombiano.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-015": {
+        "props": {
+            "text": "##### ¿Qué empresa de envíos utilizan? \nR: Por el momento nuestra empresa de mensajería es EXXE.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-016": {
+        "props": {
+            "text": "##### ¿Tienen venta al por mayor en línea? \nR: En Miniso no contamos con ventas al por mayor.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-017": {
+        "props": {
+            "text": "##### ¿Qué hago si recibí mi pedido incompleto, dañado, vacío o no es lo que pedí? \nR: Por favor escríbenos a: servicioalclientecolombia@miniso.co con la siguiente información: \n * Número de pedido. \n * Nombre registrado en la plataforma. \n * Correo electrónico registrado en la plataforma.\n * Cuáles y cuántos productos llegaron incompletos, dañados, vacíos o erróneos. \n * Cuál es el valor de los productos incompletos, dañados, vacíos o erróneos.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-018": {
+        "props": {
+            "text": "##### ¿Cómo hago una devolución?.\nR: Te invitamos a consultar nuestra política de cambios y garantías aquí www.miniso.co/devoluciones-y-garantias, si tienes alguna duda escríbenos a: servicioalclientecolombia@miniso.co",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-019": {
+        "props": {
+            "text": "##### ¿Cómo hago válida una garantía?\nR: Te invitamos a consultar nuestra política de cambios y garantías aquí www.miniso.co/devoluciones-y-garantias, si tienes alguna duda escríbenos a: servicioalclientecolombia@miniso.co",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-020": {
+        "props": {
+            "text": "##### ¿Puedo realizar mi garantía en cualquier tienda?\nR: Te invitamos a consultar nuestra política de cambios y garantías aquí www.miniso.co/devoluciones-y-garantias, si tienes alguna duda escríbenos a: servicioalclientecolombia@miniso.co",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-021": {
+        "props": {
+            "text": "##### ¿Mis datos personales están protegidos?\nR: ¡Claro! Si tienes alguna duda al respecto, puedes consultar nuestro Aviso de Privacidad o bien enviar un correo electrónico a avisodeprivacidad@miniso.co donde con gusto te atenderemos.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-022": {
+        "props": {
+            "text": "##### ¿Cuándo resurtirán producto en mi tienda favorita?\nR: Te contamos que todas las semanas llegan productos nuevos 🤩 La disponibilidad de los productos puede variar debido a las ventas del día a día.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-023": {
+        "props": {
+            "text": "##### ¿Mi tarjeta de regalo/código de ECommerce puedo usarlo en tienda física y viceversa?\nR: Lo sentimos Minisolover pero por el momento no es posible.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-024": {
+        "props": {
+            "text": "##### ¿Tienen promociones o descuentos?\nR: Te invitamos a visitar nuestra página web: www.miniso.co allí conocerás todas nuestras promociones vigentes.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-025": {
+        "props": {
+            "text": "##### El producto que adquirí no funciona, ¿cómo sé si tiene garantía?\nR: Te invitamos a consultar nuestra política de cambios y garantías aquí www.miniso.co/devoluciones-y-garantias, si tienes alguna duda escríbenos a: servicioalclientecolombia@miniso.co",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#faq-section-026": {
+        "props": {
+            "text": "##### ¿Cómo puedo ver la factura de mi compra?\nR: Por favor revisa tu bandeja de mensajes del correo que registraste en tu compra, revisa también la bandeja de SPAM o Correo no deseado, allí debes encontrar tu factura.",
+            "blockClass": [
+                "faq-section-feature"
+            ]
+        }
+    },
+    "rich-text#whatsapp-img-faq": {
+        "props": {
+            "text": "Te ayudamos con tu compra, ¿tienes alguna inquietud, sugerencia o comentario? Sólo dale click al botón de whatsapp y enseguida te atenderemos.",
+            "blockClass": [
+                "faq-section-feature",
+                "whatsapp-faq"
+            ]
+        }
+    },
+    "image#whatsapp-faq": {
+        "props": {
+            "src": "https://minisomx.vtexassets.com/assets/vtex.file-manager-graphql/images/whatsapp___a4ee5967bfc6a66adef38d8bedbcafcf.png",
+            "blockClass": "whatsapp-faq",
+            "maxWidth": "80px",
+            "maxHeight": "auto",
+            "link": {
+                "url": "https://api.whatsapp.com/send?phone=573165748950&text=Konnichiwa,%20mi%20nombre%20es",
+                "openNewTab": "true"
+            }
+        }
+    }
+}

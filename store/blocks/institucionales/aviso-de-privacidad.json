@@ -1,0 +1,108 @@
+{
+  "store.custom#aviso-de-privacidad": {
+    "blocks": [
+      "flex-layout.row#aviso-de-privacidad"
+    ]
+  },
+  "flex-layout.row#aviso-de-privacidad": {
+    "children": [
+      "flex-layout.col#text-aviso-de-privacidad"
+    ],
+    "props": {
+      "blockClass": [
+        "page-institucionales",
+        "aviso-de-privacidad"
+      ]
+    }
+  },
+  "flex-layout.col#text-aviso-de-privacidad": {
+    "children": [
+      "rich-text#title-aviso-de-privacidad",
+      "rich-text#aviso-de-privacidad-section-1",
+      "rich-text#aviso-de-privacidad-section-2",
+      "rich-text#aviso-de-privacidad-section-3",
+      "rich-text#aviso-de-privacidad-section-4",
+      "rich-text#aviso-de-privacidad-section-5",
+      "rich-text#aviso-de-privacidad-section-6",
+      "rich-text#aviso-de-privacidad-section-7",
+      "rich-text#aviso-de-privacidad-section-8"
+    ],
+    "props": {
+      "blockclass": [
+        "page-institucionales",
+        "aviso-de-privacidad"
+      ],
+      "preventVerticalStretch": true
+    }
+  },
+  "rich-text#title-aviso-de-privacidad": {
+    "props": {
+      "text": "# AVISO DE PRIVACIDAD MINISO COLOMBIA S.A.S",
+      "blockClass": ""
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-1": {
+    "props": {
+      "text": "El presente Aviso es dirigido a todos los usuarios titulares de datos personales que obren en posesión de **MINISO MÉXICO, S.A.P.I. de C.V.** en cumplimiento a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares, su Reglamento y demás ordenamientos legales aplicables.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-2": {
+    "props": {
+      "text": "##### Tratamiento y Finalidad. \n MINISO COLOMBIA S.A.S. (en adelante MINISO), a través de la autorización otorgada por el TITULAR podrá recolectar, consultar, procesar, almacenar, usar, transferir, circular, compartir, transmitir, actualizar, y en general darles tratamiento a los datos personales para fines comerciales, promocionales, contractuales, legales, contables, fiscales, financieros, administrativos, logísticos, de mercadeo y en general para cumplir las actividades propias de su objeto social. \n Para este efecto, el tratamiento de los datos personales se podrá realizar a través de medios físicos, automatizados o digitales con las finalidades descritas en la Política de Tratamiento de Datos Personales entre las que se encuentran las siguientes, entre otras:",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-3": {
+    "props": {
+      "text": "\n * Efectuar las gestiones y actividades relacionadas con el desarrollo del objeto social de MINISO.\n\n * Conocer de manera suficiente al TITULAR con quien se propone entablar relaciones, prestar servicios, y valorar el riesgo presente o futuro de las mismas relaciones y servicios.\n * Efectuar las gestiones pertinentes para el desarrollo de la etapa precontractual, contractual y pos contractual con el TITULAR, respecto de cualquiera de los productos o servicios ofrecidos por éste, que haya o no adquirido o respecto de cualquier relación negocial subyacente que tenga con ella, así como dar cumplimiento a la regulación aplicable y a las órdenes de autoridades competentes.\n * Realizar invitaciones a eventos y ofrecer nuevos productos, promociones de servicios de MINISO.\n *Efectuar encuestas de satisfacción respecto de los bienes y servicios ofrecidos por MINISO.\n * Suministrar información de contacto a la fuerza comercial, telemercadeo, investigación de mercados y cualquier tercero con el cual MINISO tenga un vínculo o interés para el desarrollo de actividades de ese tipo (investigación de mercados y telemercadeo, etc) para la ejecución de las mismas.\n * Contactar al TITULAR a través de cualquier medio de comunicación para realizar encuestas, estudios y/o confirmación de datos personales necesarios para la ejecución de una relación.\n * Contactar al TITULAR a través de medios electrónicos – SMS o chat para el envío de noticias relacionadas con promociones, campañas, lanzamientos, planes de fidelización, entre otros. \n * Contactar al TITULAR a través de correo electrónico para el envío de información, respuestas o facturas.\n * La devolución y/o cambio de los bienes y/o productos adquiridos.\n * Brindar un oportuno servicio y asesoría al Cliente con el objetivo de conocer sus preferencias e inquietudes.\n * Solicitar información relacionada con la prestación de servicio o compra de productos.\n * Realizar actividades de publicidad, mercadeo, ventas, eventos, promociones y en general toda actividad relacionada con el objeto social de MINISO.\n * Reproducir imágenes, videos y audios en redes sociales de MINISO, o en cualquier medio de difusión que haga parte y que genere publicidad para MINISO.\n * Suministrar sus servicios y vender sus productos, de manera presencial, por E- Commerce o por medio de Marketplace.\n * Brindar información promocional con respecto a nuevos productos o servicios, o la realización de eventos.\n * Analizar, evaluar y procesar la información con el objetivo de identificar tendencias de consumo y desarrollar investigación de mercado.\n * Desarrollar, ejecutar y mantener las relaciones existentes con los clientes, los consumidores de productos y servicios, empleadores, proveedores y otras personas.\n *  La comercialización, procesamiento o perfeccionamiento de compra y/o de pago de productos de manera presencial, E-Commerce o Marketplace, así como las obligaciones que emanen de dichas operaciones\n * Entregar en la tienda y/o en el domicilio indicado, los bienes y/o productos adquiridos de manera presencial o por medio de E- Commerce. En caso de que la compra se haga por medio de Marketplace será dicho operador el responsable por el domicilio.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-4": {
+    "props": {
+      "text": "##### Tratamiento de datos sensibles. \n En el evento en que MINISO recolecte datos que tengan que ver con la intimidad del titular o que revelen el origen racial o étnico, la orientación política, las convicciones religiosas o filosóficas, la pertenencia a sindicatos, organizaciones sociales, de derechos humanos o que promueva intereses de cualquier partido político o que garanticen los derechos y garantías de partidos políticos de oposición, así como los datos relativos a la salud, a la vida sexual, y los datos biométricos del mismo, en la respectiva autorización se dará a conocer al titular cuáles serán los datos sensibles objeto de tratamiento y la finalidad que le dará a los mismos. En caso de que se recolecten datos personales sensibles, las respuestas del Titular serán de carácter facultativo.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-5": {
+    "props": {
+      "text": "##### Datos personales sensibles.\nLe informamos que, al no ser necesarios para llevar a cabo las finalidades de tratamiento que más adelante se señalan, ninguno de sus datos personales sensibles será tratado por **MINISO**.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-6": {
+    "props": {
+      "text": "##### Las opciones y medios que se ofrecen para limitar el uso o divulgación de sus datos.\n\nLe informamos que **MINISO** implementa medidas de seguridad, técnicas, administrativas y físicas necesarias para proteger sus datos personales con la finalidad de evitar el uso, daño, pérdida, alteración, destrucción, acceso o tratamiento no autorizado.\n\nEn caso de que usted desee limitar el uso o divulgación de sus datos personales, envíe en el momento en el que lo considere conveniente un correo electrónico a la dirección: avisodeprivacidad@miniso.com.mx, solicitando que se le incluya en nuestro listado de exclusión internos de no contactar para fines promocionales y mercado.\n\nAsimismo, se le informa que usted podrá inscribirse en el Registro Público para Evitar Publicidad (REPEP) de la Procuraduría Federal del Consumidor, el cual puede ser consultado en el siguiente link: https://repep.profeco.gob.mx/.",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-7": {
+    "props": {
+      "text": "##### Medios para ejercer los derechos de acceso, rectificación, cancelación u oposición, de conformidad con lo dispuesto en la Ley.\nLos titulares de los datos personales que tenemos en nuestro poder podrán ejercer los derechos de Acceso, Rectificación, Cancelación y Oposición (Derechos ARCO) que les confiere la Ley Federal de Protección de Datos Personales en Posesión de Particulares, enviando su solicitud a través del correo electrónico avisodeprivacidad@miniso.com.mx, Todas las solicitudes deberán cumplir con los siguientes requisitos:\n * Incluir el nombre y domicilio, así como el correo electrónico para comunicarle la respuesta a su solicitud.\n\n * Acompañar una identificación oficial que acredite la identidad del titular.\n * Incluir una descripción clara y precisa de los datos personales respecto de los cuales ejercitará los derechos que les confiere la Ley.\n * Adjuntar cualquier elemento o documento que facilite la localización de los datos personales de que se trate.\n\nLa respuesta será entregada al titular vía correo electrónico, dentro de un plazo no mayor a veinte días hábiles, contados a partir del día siguiente a la recepción de la solicitud, a efecto de que, si resulta procedente, se haga efectiva la misma dentro de los quince días hábiles siguientes a la fecha en que el titular reciba la respuesta. En caso de que el titular no reciba la respuesta en el plazo señalado, se debe entender que su solicitud ha sido resuelta en sentido negativo.\n\nEn caso de que el titular haya ejercido su derecho de acceso y la respuesta a su solicitud haya sido en sentido positivo, los datos personales solicitados le serán entregados vía correo electrónico, para lo cual recibirá un archivo en formato PDF con los datos personales de que se trate. ",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  },
+  "rich-text#aviso-de-privacidad-section-8": {
+    "props": {
+      "text": "##### Autorización \n Se entenderá que el titular de los datos personales otorga a MINISO la autorización cuando el titular se manifieste por alguno de los siguientes medios (i) por escrito, (ii) de forma oral o (iii) mediante conductas inequívocas del titular que permitan concluir de forma razonable que otorgó la autorización.\nPor lo tanto, MINISO quedará facultada para recolectar, almacenar, procesar, tratar, conservar, consultar, y utilizar sus datos personales de acuerdo con la Política de Tratamiento de Datos Personales de MINISO COLOMBIA S.A.S. para los fines descritos en el presente documento. La autorización incluye también el tratamiento de datos sensibles, conforme con lo aquí dispuesto..",
+      "blockClass": [
+        "aviso-de-privacidad-section-feature"
+      ]
+    }
+  } 
+}

@@ -1,0 +1,54 @@
+{
+    "store.custom#devoluciones-garantias": {
+        "blocks": [
+            "flex-layout.row#devoluciones-garantias"
+        ]
+    },
+    "flex-layout.row#devoluciones-garantias": {
+        "children": [
+            "flex-layout.col#text-devoluciones-garantias"
+        ],
+        "props": {
+            "blockClass": [
+                "page-institucionales",
+                "devoluciones-garantias"
+            ]
+        }
+    },
+    "flex-layout.col#text-devoluciones-garantias": {
+        "children": [
+            "rich-text#title-devoluciones-garantias",
+            "rich-text#devoluciones-garantias-section-1",
+            "rich-text#devoluciones-garantias-section-2"
+        ],
+        "props": {
+            "blockclass": [
+                "page-institucionales",
+                "devoluciones-garantias"
+            ],
+            "preventVerticalStretch": true
+        }
+    },
+    "rich-text#title-devoluciones-garantias": {
+        "props": {
+            "text": "# Devoluciones y Garantías",
+            "blockClass": ""
+        }
+    },
+    "rich-text#devoluciones-garantias-section-1": {
+        "props": {
+            "text": "##### Necesito cambiar un producto que acabo de adquirir ¿Qué debo hacer?\nR: Envía un correo electrónico a tiendaenlinea@miniso.com.mx con tu nombre completo, teléfono de contacto, motivo de cambio y una foto legible de tu ticket de compra y captura de pantalla de tu confirmación de orden.",
+            "blockClass": [
+                "devoluciones-garantias-section-feature"
+            ]
+        }
+    },
+    "rich-text#devoluciones-garantias-section-2": {
+        "props": {
+            "text": "##### El producto que adquirí no funciona ¿Cómo hago valida mi garantía?\nR: MINISO ofrece una garantía únicamente por lo que hace a los productos eléctricos, electrónicos y electrodomésticos que comercializa.\nEn el supuesto de que el (los) producto(s), que adquirió el Usuario no tenga(n) un adecuado funcionamiento o tenga(n) defectos cuyo origen sean imputables al fabricante, y se encuentre(n) dentro del plazo de noventa (90) días podrá hacer valida la garantía de los mismos, (exceptuando los productos electrodomésticos, los cuales cuentan con un plazo de garantía de un (1) año), contado a partir de la entrega del (de los) producto(s), el Usuario deberá enviar un correo electrónico a la dirección tiendaenlinea@miniso.com.mx, a efecto de solicitar que se haga efectiva la garantía, en donde se deberá señalar\n * Número de orden de compra.\n\n * Fecha de compra.\n * Cuál es el motivo por el cual se está solicitando la garantía (falla en específico).\n * Comprobar mediante videos, fotos o demás similares la falla del producto.\n * Correo electrónico con el cual accedió al Sitio.\n\nUna vez recibido el correo electrónico por el personal de MINISO, éste le dará seguimiento a la petición realizada, y en caso de ser procedente su solicitud, le dará al Usuario las instrucciones a seguir para poder hacer efectiva la garantía.\nEn caso de no cumplir con los pasos y requisitos previamente señalados, dentro de los plazos estipulados, MINISO no hará efectiva la garantía.",
+            "blockClass": [
+                "devoluciones-garantias-section-feature"
+            ]
+        }
+    }
+}

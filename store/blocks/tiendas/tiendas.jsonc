@@ -1,0 +1,54 @@
+{
+  "store.custom#tiendas": {
+    "blocks": ["flex-layout.row#tiendas"]
+  },
+  "flex-layout.row#tiendas": {
+    "children": ["flex-layout.col#tiendas"],
+    "props": {
+      "blockClass": ["page-institucionales", "tiendas"]
+    }
+  },
+  "flex-layout.col#tiendas": {
+    "children": [
+      "rich-text#title-tiendas",
+      "rich-text#link-tiendas",
+      "flex-layout.row#tiendas-row-chih",
+      "flex-layout.row#tiendas-row-jal",
+      "flex-layout.row#tiendas-row-mex",
+      "flex-layout.row#tiendas-row-mor",
+      "flex-layout.row#tiendas-row-yuc",
+      "flex-layout.row#tiendas-row-tab",
+      "flex-layout.row#tiendas-row-tamps",
+      "flex-layout.row#tiendas-row-son",
+      "flex-layout.row#tiendas-row-slp",
+      "flex-layout.row#tiendas-row-sin",
+      "flex-layout.row#tiendas-row-qro",
+      "flex-layout.row#tiendas-row-oax",
+      "flex-layout.row#tiendas-row-nay",
+      "flex-layout.row#tiendas-row-col",
+      "flex-layout.row#tiendas-row-hgo",
+      "flex-layout.row#tiendas-row-tlax",
+      "flex-layout.row#tiendas-row-chis",
+      "flex-layout.row#tiendas-row-camp",
+      "flex-layout.row#tiendas-row-bcs",
+      "flex-layout.row#tiendas-row-ags",
+      "flex-layout.row#tiendas-row-gro"
+    ],
+    "props": {
+      "blockclass": "",
+      "preventVerticalStretch": true
+    }
+  },
+  "rich-text#title-tiendas": {
+    "props": {
+      "text": "# Tiendas",
+      "blockClass": "title-tiendas"
+    }
+  },
+  "rich-text#link-tiendas": {
+    "props": {
+      "text": "Conoce los horarios [Click aquí](/horarios-tiendas-miniso-colombia)",
+      "blockClass": "link-tiendas"
+    }
+  }
+}
