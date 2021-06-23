@@ -2,6 +2,8 @@
   "store.home": {
     "blocks": [
       "modal-trigger#example",
+      //temporizador
+      "hello-world",
       //"newsletter-popup",
       "list-context.image-list#demo",
       "flex-layout.row#season-promotion",
@@ -17,7 +19,7 @@
     ]
   },
 
-  //modal
+  //modal news letter
   "modal-trigger#example": {
     "children": [
       "modal-layout#example"
@@ -84,6 +86,7 @@
       "blockClass": "newsletter-modal-arigato"
     }
   },
+  //End modal newsletter
 
 
   "flex-layout.row#home-shelf-01": {

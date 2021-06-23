@@ -1,12 +1,12 @@
 {
   "flex-layout.row#tiendas-row-col": {
-    "title": "Colima",
-    "children": ["flex-layout.col#tiendas-col-col"],
+    "title": "Pereira",
+    "children": ["flex-layout.col#tiendas-col-col-01"],
     "props": {
       "blockClass": "tiendas-row-col"
     }
   },
-  "flex-layout.col#tiendas-col-col": {
+  "flex-layout.col#tiendas-col-col-01": {
     "children": [
       "rich-text#subtitle-tiendas-col",
       "flex-layout.row#tiendas-row1-col"
@@ -22,20 +22,20 @@
     }
   },
   "flex-layout.row#tiendas-row1-col": {
-    "children": ["rich-text#tiendas-tienda1-col","rich-text#tiendas-tienda2-col"],
+    "children": ["rich-text#tiendas-tienda01-col","rich-text#tiendas-tienda02-col"],
     "props": {
       "blockClass": "tiendas-row"
     }
   },
-  "rich-text#tiendas-tienda1-col": {
+  "rich-text#tiendas-tienda01-col": {
     "title": "tienda-1",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Miniso Victoria Centro Comercial\n**Dirección:** Carrera 11 Bis # 17 – 20 \n Local: 108",
       "blockClass": "info-tienda"
     }
   },
-  "rich-text#tiendas-tienda2-col": {
-    "title": "tienda-1",
+  "rich-text#tiendas-tienda02-col": {
+    "title": "tienda-2",
     "props": {
       "text": "<span></span>\n**Nombre de la tienda:** Parque Arboleda Centro Comercial \n**Dirección:** Cra. 14 ## 5-20 Local: 320",
       "blockClass": "info-tienda"

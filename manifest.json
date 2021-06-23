@@ -1,7 +1,7 @@
 {
   "vendor": "minisocol",
   "name": "store-theme",
-  "version": "0.13.8",
+  "version": "0.13.12",
   "builders": {
     "styles": "2.x",
     "store": "0.x",
@@ -12,9 +12,6 @@
   "mustUpdateAt": "2018-09-05",
   "scripts": {
     "postreleasy": "vtex publish --verbose"
-  },
-  "peerDependencies": {
-    "vtexeurope.minicart-freeshipping-bar": "1.x"
   },
   "dependencies": {
     "minisocl.backbtn": "0.x",
